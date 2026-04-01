@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\pdfserver\\pdfserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|solutionrelative:pdfserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\pdfserver\\pdfserver\\controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|solutionrelative:pdfserver\\controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\pdfserver\\pdfserver\\services\\pdfreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|solutionrelative:pdfserver\\services\\pdfreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\pdfserver\\pdfserver\\models\\reportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|solutionrelative:pdfserver\\models\\reportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\pdfserver\\pdfserver\\data\\adventureworkscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|solutionrelative:pdfserver\\data\\adventureworkscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\pdfserver\\pdfserver\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|solutionrelative:pdfserver\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\pdfserver\\pdfserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|solutionrelative:pdfserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\pdfserver\\pdfserver\\models\\reportresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|solutionrelative:pdfserver\\models\\reportresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\pdfserver\\pdfserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|solutionrelative:pdfserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\pdfserver\\pdfserver\\data\\entities\\salesorderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|solutionrelative:pdfserver\\data\\entities\\salesorderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\pdfserver\\pdfserver\\data\\entities\\salesorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F071859-95F1-465D-962F-66B72FD02763}|PdfServer\\PdfServer.csproj|solutionrelative:pdfserver\\data\\entities\\salesorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PdfController.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Controllers\\PdfController.cs",
+              "RelativeDocumentMoniker": "PdfServer\\Controllers\\PdfController.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Controllers\\PdfController.cs",
+              "RelativeToolTip": "PdfServer\\Controllers\\PdfController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:22:27.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdventureWorksContext.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Data\\AdventureWorksContext.cs",
+              "RelativeDocumentMoniker": "PdfServer\\Data\\AdventureWorksContext.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Data\\AdventureWorksContext.cs",
+              "RelativeToolTip": "PdfServer\\Data\\AdventureWorksContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:25:15.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Models\\ReportRequestDto.cs",
+              "RelativeDocumentMoniker": "PdfServer\\Models\\ReportRequestDto.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Models\\ReportRequestDto.cs",
+              "RelativeToolTip": "PdfServer\\Models\\ReportRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:23:26.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PdfReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Services\\PdfReportService.cs",
+              "RelativeDocumentMoniker": "PdfServer\\Services\\PdfReportService.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Services\\PdfReportService.cs",
+              "RelativeToolTip": "PdfServer\\Services\\PdfReportService.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAKUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:23:13.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Program.cs",
+              "RelativeDocumentMoniker": "PdfServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Program.cs",
+              "RelativeToolTip": "PdfServer\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:27:01.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PdfServer\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PdfServer\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:24:38.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\appsettings.json",
+              "RelativeDocumentMoniker": "PdfServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\appsettings.json",
+              "RelativeToolTip": "PdfServer\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T04:27:15.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Models\\ReportResponseDto.cs",
+              "RelativeDocumentMoniker": "PdfServer\\Models\\ReportResponseDto.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Models\\ReportResponseDto.cs",
+              "RelativeToolTip": "PdfServer\\Models\\ReportResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:23:34.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalesOrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Data\\Entities\\SalesOrderDetail.cs",
+              "RelativeDocumentMoniker": "PdfServer\\Data\\Entities\\SalesOrderDetail.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Data\\Entities\\SalesOrderDetail.cs",
+              "RelativeToolTip": "PdfServer\\Data\\Entities\\SalesOrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:23:03.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesOrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Data\\Entities\\SalesOrderHeader.cs",
+              "RelativeDocumentMoniker": "PdfServer\\Data\\Entities\\SalesOrderHeader.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Data\\Entities\\SalesOrderHeader.cs",
+              "RelativeToolTip": "PdfServer\\Data\\Entities\\SalesOrderHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:22:55.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PdfServer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\PdfServer\\PdfServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PdfServer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-20T02:24:04.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

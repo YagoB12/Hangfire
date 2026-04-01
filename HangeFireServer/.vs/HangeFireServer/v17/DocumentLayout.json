@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\hangefireserver\\hangefireserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|solutionrelative:hangefireserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\hangefireserver\\hangefireserver\\jobs\\generatereportjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|solutionrelative:hangefireserver\\jobs\\generatereportjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\hangefireserver\\hangefireserver\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|solutionrelative:hangefireserver\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\hangefireserver\\hangefireserver\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|solutionrelative:hangefireserver\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\hangefireserver\\hangefireserver\\models\\emailparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|solutionrelative:hangefireserver\\models\\emailparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\hangefireserver\\hangefireserver\\middlewares\\correlationidmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|solutionrelative:hangefireserver\\middlewares\\correlationidmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\hangefireserver\\hangefireserver\\jobs\\senddiscordnotificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|solutionrelative:hangefireserver\\jobs\\senddiscordnotificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\hangefireserver\\hangefireserver\\jobs\\sendemailnotificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|solutionrelative:hangefireserver\\jobs\\sendemailnotificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\hangefireserver\\hangefireserver\\responses\\enqueueresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|solutionrelative:hangefireserver\\responses\\enqueueresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\hangefireserver\\hangefireserver\\requests\\reportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|solutionrelative:hangefireserver\\requests\\reportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\hangefireserver\\hangefireserver\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|solutionrelative:hangefireserver\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\hangefireserver\\hangefireserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|solutionrelative:hangefireserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\hangefireserver\\hangefireserver\\hangefireserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|solutionrelative:hangefireserver\\hangefireserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|c:\\users\\isaac chevez\\documents\\ii semestre 2025\\info aplicada\\hangfire\\hangfire\\hangefireserver\\hangefireserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A4C503F-E1E3-4DA2-B6FE-7886B7C983F5}|HangeFireServer\\HangeFireServer.csproj|solutionrelative:hangefireserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailParams.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Models\\EmailParams.cs",
+              "RelativeDocumentMoniker": "HangeFireServer\\Models\\EmailParams.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Models\\EmailParams.cs",
+              "RelativeToolTip": "HangeFireServer\\Models\\EmailParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:08:47.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "HangeFireServer\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "HangeFireServer\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T04:13:06.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HangeFireServer\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HangeFireServer\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:53:41.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenerateReportJob.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Jobs\\GenerateReportJob.cs",
+              "RelativeDocumentMoniker": "HangeFireServer\\Jobs\\GenerateReportJob.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Jobs\\GenerateReportJob.cs",
+              "RelativeToolTip": "HangeFireServer\\Jobs\\GenerateReportJob.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:00:10.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Program.cs",
+              "RelativeDocumentMoniker": "HangeFireServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Program.cs",
+              "RelativeToolTip": "HangeFireServer\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:00:45.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CorrelationIdMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Middlewares\\CorrelationIdMiddleware.cs",
+              "RelativeDocumentMoniker": "HangeFireServer\\Middlewares\\CorrelationIdMiddleware.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Middlewares\\CorrelationIdMiddleware.cs",
+              "RelativeToolTip": "HangeFireServer\\Middlewares\\CorrelationIdMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T03:59:55.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SendDiscordNotificationJob.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Jobs\\SendDiscordNotificationJob.cs",
+              "RelativeDocumentMoniker": "HangeFireServer\\Jobs\\SendDiscordNotificationJob.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Jobs\\SendDiscordNotificationJob.cs",
+              "RelativeToolTip": "HangeFireServer\\Jobs\\SendDiscordNotificationJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:59:40.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SendEmailNotificationJob.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Jobs\\SendEmailNotificationJob.cs",
+              "RelativeDocumentMoniker": "HangeFireServer\\Jobs\\SendEmailNotificationJob.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Jobs\\SendEmailNotificationJob.cs",
+              "RelativeToolTip": "HangeFireServer\\Jobs\\SendEmailNotificationJob.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwDYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:11:40.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnqueueResult.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Responses\\EnqueueResult.cs",
+              "RelativeDocumentMoniker": "HangeFireServer\\Responses\\EnqueueResult.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Responses\\EnqueueResult.cs",
+              "RelativeToolTip": "HangeFireServer\\Responses\\EnqueueResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T03:59:42.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Requests\\ReportRequest.cs",
+              "RelativeDocumentMoniker": "HangeFireServer\\Requests\\ReportRequest.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Requests\\ReportRequest.cs",
+              "RelativeToolTip": "HangeFireServer\\Requests\\ReportRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:05:34.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "HangeFireServer\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "HangeFireServer\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:00:34.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\appsettings.json",
+              "RelativeDocumentMoniker": "HangeFireServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\appsettings.json",
+              "RelativeToolTip": "HangeFireServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T08:22:53.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HangeFireServer.csproj",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\HangeFireServer.csproj",
+              "RelativeDocumentMoniker": "HangeFireServer\\HangeFireServer.csproj",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\HangeFireServer.csproj",
+              "RelativeToolTip": "HangeFireServer\\HangeFireServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T08:07:22.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HangeFireServer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Isaac Chevez\\Documents\\II SEMESTRE 2025\\Info aplicada\\hangfire\\hangfire\\HangeFireServer\\HangeFireServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HangeFireServer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-20T02:56:26.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
